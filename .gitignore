@@ -10,3 +10,6 @@ __pycache__/
 .vscode/
 
 .env
+./debugger/vite.config.js
+./debugger/jsconfig.json
+./debugger/components.json
