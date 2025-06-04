@@ -1,0 +1,12 @@
+venv/
+
+./MyModel/trainedModel.py
+__pycache__/
+*.py[cod]
+*.pyo
+
+.ipynb_checkpoints/
+
+.vscode/
+
+.env
