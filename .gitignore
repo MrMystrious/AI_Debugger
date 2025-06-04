@@ -1,6 +1,6 @@
 venv/
 
-./MyModel/trainedModel.py
+./MyModel_/trainedModel.py
 __pycache__/
 *.py[cod]
 *.pyo
